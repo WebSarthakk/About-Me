@@ -45,6 +45,6 @@ I am a Developer from India
 
 ### :sparkles: My Therapy Song :
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg?si=53d9979b2184442a)
+[![Spotify](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg?si=53d9979b2184442a)
 
 
