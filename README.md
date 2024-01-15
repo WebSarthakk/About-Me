@@ -43,8 +43,7 @@ I am a Developer from India
 
 ---
 
-### :sparkles: My Therapy Song :
+### :sparkles: Profile Views :
 
-[![Spotify](https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg?si=53d9979b2184442a)
-
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
