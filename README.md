@@ -4,7 +4,7 @@
 
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthak-fullstackdev&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=WebSarthakk&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
   Hey there !
